@@ -1,0 +1,18 @@
+{
+    "creatingAccountDetails": {
+        "URL": "https://magento.softwaretestingboard.com/",
+        "firstName": "hello",
+        "lastName": "bye",
+        "email": "agww14639800@gmail.com",
+        "emailPassword": "Ag@$1234567",
+        "conformEmailPassword": "Ag@$1234567",
+        "registerThankMessage": "Thank you for registering with Main Website Store.",
+        "productName": "\nCora Parachute Pant ",
+        "company": "VTEST",
+        "streetAddress": "Hoodi",
+        "city": "syra",
+        "postcode": "577004",
+        "number": "6663336663",
+        "thankMessage": "Thank you for your purchase!"
+    }
+}

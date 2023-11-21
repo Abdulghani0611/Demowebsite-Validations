@@ -1,0 +1,22 @@
+{
+    "default": {
+        "formatOptions": {
+            "snippetInterface": "async-await"
+        },
+        "paths": [
+            "features/"
+        ],
+        "publishQuite": true,
+        "dryRun": false,
+
+        "require": [
+            "features/StepDefiniation/Step.js",
+            "features/Support/Hooks.js"
+        ],
+        "format": [
+
+            "html:test-results/cucumber-report.html",
+            "json:test-results/cucumber-report.json"
+        ]
+    }
+}
